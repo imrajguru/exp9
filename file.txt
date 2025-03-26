@@ -1,0 +1,6 @@
+my-pwa/
+├── index.html
+├── styles.css
+├── app.js
+├── manifest.json
+└── service-worker.js
